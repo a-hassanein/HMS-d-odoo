@@ -1,2 +1,2 @@
-# HMS-d-odoo
+# HMS-odoo
 odoo-iti
